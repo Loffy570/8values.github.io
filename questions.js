@@ -1,33 +1,33 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "I know who Spunky is",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": -10
             "scty": 0
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "I remember Jason(cringe).",
         "effect": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -15
             "scty": 0
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "I would rather live in a libertine society that has opposite economics to me than an authoritarian one that shares my economics.",
         "effect": {
             "econ": -10,
-            "dipl": 0,
+            "dipl": -5
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "I remember #general-reborn.",
         "effect": {
             "econ": -10,
             "dipl": 0,
