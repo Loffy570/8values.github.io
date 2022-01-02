@@ -4,7 +4,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10
+            "govt": -10,
             "scty": 0
         }
     },
@@ -13,7 +13,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -15
+            "govt": -15,
             "scty": 0
         }
     },
@@ -21,7 +21,7 @@ questions = [
         "question": "I would rather live in a libertine society that has opposite economics to me than an authoritarian one that shares my economics.",
         "effect": {
             "econ": -10,
-            "dipl": -5
+            "dipl": -5,
             "govt": 0,
             "scty": 0
         }
